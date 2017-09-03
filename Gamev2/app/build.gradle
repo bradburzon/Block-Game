@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.0"
     defaultConfig {
-        applicationId "com.example.brad_mikeburzon.game"
+        applicationId "com.example.bradburzon.gamev2"
         minSdkVersion 24
         targetSdkVersion 26
         versionCode 1
